@@ -9,6 +9,8 @@
   * [Test Scenarios for Book Browsing](#book-browsing)
   * [Test Scenarios for Shopping cart](#shopping-cart)
   * [Test Scenarios for Checkout Process](#checkout-process)
+  * [Test Summary](#test-summary)
+  * [TCD](https://github.com/varma-prasad/Test-case-Preparation/blob/main/Test%20Case%20Document.xlsx)
 
 ### Overview
 
@@ -79,5 +81,9 @@
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/72b6e376-1b23-4d11-aaa9-a68d78305af8)
 ---
 
+### Test Summary
+
+![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/0991e215-ba92-40d6-a716-e0bfd71a5bb7)
+---
 
 
