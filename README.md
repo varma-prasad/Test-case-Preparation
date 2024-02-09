@@ -5,6 +5,7 @@
   * [Overview](#overview)
   * [Requirements](#requirements)
   * [Test Case Preparation](#test-case-preparation)
+  * [Test Scenarios for User Registration & Login](#user-registration-&-login)
 
 ### Overview
 
@@ -54,4 +55,26 @@
       * Expected Results
       * Actual Results
       * Stauts
+
+### User Registration & Login
+
+![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/2de4686a-4c15-4768-8d2d-a6b6de677ab0)
+---
+
+### Book Browsing
+
+![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/7586fbf5-a1fd-44d8-91d0-a4607801e416)
+---
+
+### Shopping cart
+
+![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/784909ba-db33-4cd0-b7c3-e2e9e2363782)
+---
+
+### Checkout Process
+
+![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/72b6e376-1b23-4d11-aaa9-a68d78305af8)
+---
+
+
 
