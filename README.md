@@ -66,12 +66,12 @@
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/2de4686a-4c15-4768-8d2d-a6b6de677ab0)
 ---
 
-### Book Browsing cases Module
+### Book Browsing Module
 
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/7586fbf5-a1fd-44d8-91d0-a4607801e416)
 ---
 
-### Shopping cart cases Module
+### Shopping cart Module
 
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/784909ba-db33-4cd0-b7c3-e2e9e2363782)
 ---
