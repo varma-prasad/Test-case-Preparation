@@ -5,10 +5,10 @@
   * [Overview](#overview)
   * [Requirements](#requirements)
   * [Test Case Preparation](#test-case-preparation)
-  * [Test Scenarios for User Registration & Login](#user-registration-and-login)
-  * [Test Scenarios for Book Browsing](#book-browsing)
-  * [Test Scenarios for Shopping cart](#shopping-cart)
-  * [Test Scenarios for Checkout Process](#checkout-process)
+  * [Test Scenarios for User Registration & Login](#user-registration-and-login-module)
+  * [Test Scenarios for Book Browsing](#book-browsing-module)
+  * [Test Scenarios for Shopping cart](#shopping-cart-module)
+  * [Test Scenarios for Checkout Process](#checkout-process-module)
   * [Test Summary](#test-summary)
   * [TCD](https://github.com/varma-prasad/Test-case-Preparation/blob/main/Test%20Case%20Document.xlsx)
 
@@ -61,22 +61,22 @@
       * Actual Results
       * Stauts
 
-### User Registration and Login
+### User Registration and Login Module
 
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/2de4686a-4c15-4768-8d2d-a6b6de677ab0)
 ---
 
-### Book Browsing
+### Book Browsing cases Module
 
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/7586fbf5-a1fd-44d8-91d0-a4607801e416)
 ---
 
-### Shopping cart
+### Shopping cart cases Module
 
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/784909ba-db33-4cd0-b7c3-e2e9e2363782)
 ---
 
-### Checkout Process
+### Checkout Process Module
 
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/72b6e376-1b23-4d11-aaa9-a68d78305af8)
 ---
