@@ -6,9 +6,9 @@
   * [Requirements](#requirements)
   * [Test Case Preparation](#test-case-preparation)
   * [Test Scenarios for User Registration & Login](#user-registration-and-login-module)
-  * [Test Scenarios for Book Browsing](#book-browsing-module)
-  * [Test Scenarios for Shopping cart](#shopping-cart-module)
-  * [Test Scenarios for Checkout Process](#checkout-process-module)
+  * [Test Cases for Book Browsing](#book-browsing-module)
+  * [Test Cases for Shopping cart](#shopping-cart-module)
+  * [Test Cases for Checkout Process](#checkout-process-module)
   * [Test Summary](#test-summary)
   * [TCD](https://github.com/varma-prasad/Test-case-Preparation/blob/main/Test%20Case%20Document.xlsx)
 
