@@ -86,4 +86,15 @@
 ![image](https://github.com/varma-prasad/Test-case-Preparation/assets/108605375/0991e215-ba92-40d6-a716-e0bfd71a5bb7)
 ---
 
+## 🛠 Tools used
+
+![](https://img.shields.io/badge/Excel-v2023-orange)
+
+## Authors
+
+- [Varma Prasad S](https://github.com/varma-prasad)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varma-prasad-s/)
 
